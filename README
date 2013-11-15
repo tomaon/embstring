@@ -1,0 +1,13 @@
+ embstring
+===========
+
+erlang wrapper : libmbfl
+
+
+ requirement
+-------------
+ erlang, R15B|R16B
+
+ building and running
+----------------------
+ $ make build

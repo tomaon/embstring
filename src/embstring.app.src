@@ -1,0 +1,10 @@
+{application, embstring,
+ [
+  {description, "mbstring for erlang"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, [{error_logger, tty}]},
+  {mod, {embstring_app, []}}
+ ]}.
